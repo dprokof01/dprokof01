@@ -79,13 +79,6 @@ I'm a Software Engineer specializing in backend development with Go. Passionate 
 - Unit, Integration & E2E Testing
 - Observability & Monitoring
 
-## GitHub Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dprokof01/dprokof01/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/dprokof01/dprokof01/output/github-snake.svg" alt="Animated snake eating squares on my GitHub contribution graph" />
-</picture>
-
 ## Contact
 
 <p>
